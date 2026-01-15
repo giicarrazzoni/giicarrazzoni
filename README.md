@@ -1,10 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=giicarrazzoni&color=006bed)
 
 ### About me
-
-- 🤔 DataScience enthusiast
-- 🎓 Computer Science student in Universidade Estadual da Paraíba
-- 🌱 Currently exploring more about R language
+- 🎓 Computer Science
+- 🌱 Currently exploring
 
 ### My Skills
 
